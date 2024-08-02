@@ -4,3 +4,6 @@ $x = hello;
 
         exit();
 
+        $y = "hell0";
+        
+
